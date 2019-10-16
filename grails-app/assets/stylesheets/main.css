@@ -97,7 +97,7 @@ img {
 }
 
 .footer {
-    background: #424649;
+    background: #ff6600;
     color: #ffffff;
     clear: both;
     font-size: 1em;
@@ -194,7 +194,7 @@ img {
 }
 
 .nav li.dropdown.show ul.dropdown-menu {
-    background-color: #424649;
+    background-color: #ff33cc;
 }
 
 /* CREATE/EDIT FORMS AND SHOW PAGES */
